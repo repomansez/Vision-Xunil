@@ -1,2 +1,2 @@
 # Vision Linux
-Uma distribuição Linux Leve, Bonita e idependente
+Uma distribuição Xunil Leve, Bonita e idependente
